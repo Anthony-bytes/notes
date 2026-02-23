@@ -7,18 +7,18 @@
 - [Exam Notes](comp1238.md)
 
 * Monday
-  * 9:00 - COMP 1236 - Fund. of Computing Logic
-  * 11:00 - COMP 1551 - IT Essentials
-  * 15:00 - COMP 1234 - Introduction to web develop.
+  * 9:00 - [COMP 1236 - Fund. of Computing Logic](https://learn.georgebrown.ca/d2l/home/455928)
+  * 11:00 - [COMP 1551 - IT Essentials](https://learn.georgebrown.ca/d2l/home/451461)
+  * 15:00 - [COMP 1234 - Introduction to web develop.](https://learn.georgebrown.ca/d2l/home/462729)
 * Tuesday
-  * 14:00 - COMP 1234 - Introduction to web develop.
-  * 16:30 - COMP 1238 - Introduction to Data MGMT
+  * 14:00 - [COMP 1234 - Introduction to web develop.](https://learn.georgebrown.ca/d2l/home/462729)
+  * 16:30 - [COMP 1238 - Introduction to Data MGMT](https://learn.georgebrown.ca/d2l/home/452067)
 * Wednesday
-  * 9:00 - COMP 1551 - IT Essentials
-  * 12:00 - Math 1162 - Math for computer Technology
+  * 9:00 - [COMP 1551 - IT Essentials](https://learn.georgebrown.ca/d2l/home/451461)
+  * 12:00 - [Math 1162 - Math for computer Technology](https://learn.georgebrown.ca/d2l/home/447678)
 * Thursday
-  * 14:00 - Math 1162 - Math for computer Technology
+  * 14:00 - [Math 1162 - Math for computer Technology](https://learn.georgebrown.ca/d2l/home/447678)
 * Friday
-  * 10:00 - COMP 1236 - Fund. of computing logic
-  * 12:00 - COMM 2000 - Communicating across contexts
-  * 15:00 - COMP 1238 - Introduction to Data MGMT
+  * 10:00 - [COMP 1236 - Fund. of computing logic](https://learn.georgebrown.ca/d2l/home/455928)
+  * 12:00 - [COMM 2000 - Communicating across contexts](https://learn.georgebrown.ca/d2l/home/436807)
+  * 15:00 - [COMP 1238 - Introduction to Data MGMT](https://learn.georgebrown.ca/d2l/home/452067)
